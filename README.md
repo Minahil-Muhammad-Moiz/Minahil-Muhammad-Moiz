@@ -20,6 +20,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=minahilmoiz&show_icons=true&locale=en&layout=compact" alt="minahilmoiz" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=minahilmoiz&show_icons=true&locale=en" alt="minahilmoiz" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=minahilmoiz&" alt="minahilmoiz" /></p>
