@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Minahil Muhammad Moiz</h1>
 <h3 align="center">A Software Engineer to be from Pakistan</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=minahilmoiz&label=Profile%20views&color=0e75b6&style=flat" alt="minahilmoiz" /> </p>
-
-- 🔭 I’m currently working on **Firebase Project**
-
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Redux**
 
 - 💬 Ask me about **React, typescript, redux**
 
