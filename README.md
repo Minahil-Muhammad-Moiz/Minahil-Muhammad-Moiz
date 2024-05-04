@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Minahil Muhammad Moiz</h1>
 <h3 align="center">A Software Engineer to be from Pakistan</h3>
 
-- 🌱 I’m currently learning **Redux**
+- 🌱 I’m currently learning **typescript**
 
-- 💬 Ask me about **React, typescript, redux**
+- 💬 Ask me about **React, typescript**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
