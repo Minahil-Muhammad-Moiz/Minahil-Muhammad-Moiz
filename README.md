@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Sass**
 
-- 💬 Ask me about **React, typescript**
+- 💬 Ask me about **React, typescript, Sass**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
