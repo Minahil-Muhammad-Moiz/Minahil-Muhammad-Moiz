@@ -1,7 +1,7 @@
  <h1 align="center">Hi 👋, I'm Minahil Muhammad Moiz</h1>
 <h3 align="center">Frontend Developer</h3>
 
-- 🌱 I’m currently learning **MongoDb**
+- 🌱 I’m currently learning **NodeJs and Express**
 
 - 💬 Ask me about **React**
 
