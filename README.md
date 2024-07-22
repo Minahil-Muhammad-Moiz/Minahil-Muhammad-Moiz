@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **NodeJs and Express**
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **React JS**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
