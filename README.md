@@ -1,5 +1,5 @@
  <h1 align="center">Hi 👋, I'm Minahil Muhammad Moiz</h1>
-<h3 align="center">Frontend Developer</h3>
+<h3 align="center">Frontend Dev</h3>
 
 - 🌱 I’m currently learning **NodeJs and Express**
 
