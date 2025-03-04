@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Minahil Muhammad Moiz</h1>
 <h3 align="center">Mern Stack Developer from Pakistan.</h3>
 
-- 💬 Ask me about **Mern Stack**
+- 💬 Ask me about **Full Stack**
 
 - 📫 How to reach me **minahil4864@gmail.com**
 
